@@ -1,8 +1,18 @@
-Anurag: Bacpost - Specialization= Cyber Security
-Bina: Cognizant - Specialization= iPaaS Software
-Chandrashekara: IBM - Specialization= Mainframe
+#Banned Anurag: Bacpost - Specialization= Cyber Security
+#Banned Bina: Cognizant - Specialization= iPaaS Software
+#Banned Chandrashekara: IBM - Specialization= Mainframe
 Gopichand: Deloitte - Specialization= Database
-Ismail: Accenture - Specialization= Business Analytics, Corporate performance
-Pugazh: HCL - Specialization= Product Analytics
-Rajesh: TCS - Specialization= Chatbot Software
-Vaishnavi: Mindtree - Specialization= Digital Adoption
+#Banned Ismail: Accenture - Specialization= Business Analytics, Corporate performance, Data quality
+#Banned Pugazh: HCL - Specialization= Product Analytics
+#Banned Rajesh: TCS - Specialization= Chatbot Software
+#Banned Vaishnavi: Mindtree - Specialization= Digital Adoption
+
+Gayathri: Softura - Specialization= Cyber Security, Cloud Compliance Software
+Harsha: L&T - Specialization= iPaaS Software
+Chakradhar: DXC Technologies - Specialization= Mainframe
+#Banned Pazhani: Deloitte - Specialization= Database
+Sabapathi: TCS - Specialization= Business Analytics, Corporate performance, Data quality, Enterprise IT Management Software
+#Banned Harikesh: Tech Mahindra - Specialization= Product Analytics
+Katyayani: Accenture - Specialization= Chatbot Software
+Salima: Hexaware - Specialization= Digital Adoption, Cloud Management Platforms
+Juliana: IBM - Specialization= Business Process Management Software
